@@ -1,0 +1,56 @@
+@font-face {
+  font-family: 'roboto';
+  src: url('../fonts/robotobold-webfont.eot');
+  src: url('../fonts/robotobold-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/robotobold-webfont.woff2') format('woff2'), url('../fonts/robotobold-webfont.woff') format('woff'), url('../fonts/robotobold-webfont.ttf') format('truetype'), url('../fonts/robotobold-webfont.svg#robotobold') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'roboto';
+  src: url('../fonts/robotolight-webfont.eot');
+  src: url('../fonts/robotolight-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/robotolight-webfont.woff2') format('woff2'), url('../fonts/robotolight-webfont.woff') format('woff'), url('../fonts/robotolight-webfont.ttf') format('truetype'), url('../fonts/robotolight-webfont.svg#roboto_lightregular') format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'roboto';
+  src: url('../fonts/robotomedium-webfont.eot');
+  src: url('../fonts/robotomedium-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/robotomedium-webfont.woff2') format('woff2'), url('../fonts/robotomedium-webfont.woff') format('woff'), url('../fonts/robotomedium-webfont.ttf') format('truetype'), url('../fonts/robotomedium-webfont.svg#roboto_mediumregular') format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'roboto';
+  src: url('../fonts/robotoregular-webfont.eot');
+  src: url('../fonts/robotoregular-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/robotoregular-webfont.woff2') format('woff2'), url('../fonts/robotoregular-webfont.woff') format('woff'), url('../fonts/robotoregular-webfont.ttf') format('truetype'), url('../fonts/robotoregular-webfont.svg#robotoregular') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'bebas';
+  src: url('../fonts/bebasneue_bold-webfont.eot');
+  src: url('../fonts/bebasneue_bold-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/bebasneue_bold-webfont.woff2') format('woff2'), url('../fonts/bebasneue_bold-webfont.woff') format('woff'), url('../fonts/bebasneue_bold-webfont.ttf') format('truetype'), url('../fonts/bebasneue_bold-webfont.svg#bebas_neuebold') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'bebas';
+  src: url('../fonts/bebasneue_book-webfont.eot');
+  src: url('../fonts/bebasneue_book-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/bebasneue_book-webfont.woff2') format('woff2'), url('../fonts/bebasneue_book-webfont.woff') format('woff'), url('../fonts/bebasneue_book-webfont.ttf') format('truetype'), url('../fonts/bebasneue_book-webfont.svg#bebas_neuebook') format('svg');
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'helioscregular';
+  src: url('../fonts/heliosc-webfont.eot');
+  src: url('../fonts/heliosc-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/heliosc-webfont.woff2') format('woff2'), url('../fonts/heliosc-webfont.woff') format('woff'), url('../fonts/heliosc-webfont.ttf') format('truetype'), url('../fonts/heliosc-webfont.svg#helioscregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'roboto';
+  src: url('../fonts/robotoblack-webfont.eot');
+  src: url('../fonts/robotoblack-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/robotoblack-webfont.woff2') format('woff2'), url('../fonts/robotoblack-webfont.woff') format('woff'), url('../fonts/robotoblack-webfont.ttf') format('truetype'), url('../fonts/robotoblack-webfont.svg#robotoblack') format('svg');
+  font-weight: 900;
+  font-style: normal;
+}
